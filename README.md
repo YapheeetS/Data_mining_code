@@ -1,2 +1,3 @@
 # liaohaojin-163.com
-data_mining
+This is the repository for data mining course
+ 
